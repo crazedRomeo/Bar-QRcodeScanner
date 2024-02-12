@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54135562732",
+    "firebase_url": "https://publishedappsplay.firebaseio.com",
+    "project_id": "publishedappsplay",
+    "storage_bucket": "publishedappsplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54135562732:android:dd94de8c2fb5d640",
+        "android_client_info": {
+          "package_name": "com.nextinnovation.pt.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54135562732-lgmk1l24ceq7qi4kicr7in3siee7537m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextinnovation.pt.barcodescanner",
+            "certificate_hash": "44fe06ab8398f0835871e42ec35418f40a4fbc9e"
+          }
+        },
+        {
+          "client_id": "54135562732-cjohia0msut8qrisfuh0ta707bulfki2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkEgM5RYDCegLKzrR9N4nfnGoMELbdFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54135562732-cjohia0msut8qrisfuh0ta707bulfki2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
